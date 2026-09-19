@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="28dp"
+    android:height="28dp"
+    android:viewportWidth="28"
+    android:viewportHeight="28">
+    <!-- Rounded background -->
+    <path
+        android:fillColor="#6C63FF"
+        android:pathData="M6,0h16c3.31,0 6,2.69 6,6v16c0,3.31 -2.69,6 -6,6H6c-3.31,0 -6,-2.69 -6,-6V6C0,2.69 2.69,0 6,0z"/>
+    <!-- Plus sign top-left -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M8,6h2v4h4v2H10v4H8v-4H4v-2h4z"/>
+    <!-- Minus sign top-right -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M16,10h8v2h-8z"/>
+    <!-- Multiply sign bottom-left -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M5.5,16.5l1.41,-1.41 2.59,2.58 2.59,-2.58 1.41,1.41 -2.58,2.59 2.58,2.59 -1.41,1.41L9.5,21.09l-2.59,2.59 -1.41,-1.41 2.59,-2.59z"/>
+    <!-- Equals sign bottom-right -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M16,17h8v2h-8zM16,21h8v2h-8z"/>
+</vector>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="250dp"
+    android:viewportWidth="360"
+    android:viewportHeight="250">
+
+    <!-- Back wave (darker) -->
+    <path
+        android:fillColor="#0A1628"
+        android:pathData="M0,120 C60,80 120,160 180,120 C240,80 300,160 360,120 L360,250 L0,250 Z"/>
+
+    <!-- Front wave (slightly lighter, purple tint) -->
+    <path
+        android:fillColor="#111F35"
+        android:pathData="M0,150 C50,110 110,180 180,150 C250,120 310,175 360,145 L360,250 L0,250 Z"/>
+
+    <!-- Accent wave (purple hint) -->
+    <path
+        android:fillColor="#1A1550"
+        android:pathData="M0,185 C70,165 140,200 210,180 C270,162 320,195 360,175 L360,250 L0,250 Z"
+        android:fillAlpha="0.6"/>
+
+</vector>

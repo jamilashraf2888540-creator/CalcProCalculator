@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/res_colors.xml -->
+<resources>
+
+    <!-- ===== BACKGROUNDS ===== -->
+    <!-- Main dark navy background: #0D1B2A or #0E1726 -->
+    <color name="bg_dark">#0F1B2D</color>
+
+    <!-- Card / panel surface (slightly lighter than bg) -->
+    <color name="card_bg">#162236</color>
+
+    <!-- ===== BUTTONS ===== -->
+    <!-- Number buttons (dark blue-grey) -->
+    <color name="btn_primary">#1C2D42</color>
+
+    <!-- Function buttons (C, +/-, %) -->
+    <color name="btn_secondary">#1E2F45</color>
+
+    <!-- ===== ACCENT ===== -->
+    <!-- Purple accent for operators (÷, ×, −, +, =) -->
+    <color name="accent_purple">#6C63FF</color>
+
+    <!-- Lighter purple for gradient / icon backgrounds -->
+    <color name="accent_purple_light">#8B85FF</color>
+
+    <!-- ===== TEXT ===== -->
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_secondary">#8896A8</color>
+
+    <!-- ===== UI ELEMENTS ===== -->
+    <!-- Divider lines between settings rows -->
+    <color name="divider_color">#1E2F45</color>
+
+    <!-- Switch track off state -->
+    <color name="switch_track_off">#2A3D55</color>
+
+</resources>
